@@ -2,7 +2,11 @@
   "dependencies": {
     "@discordjs/voice": "^0.17.0",
     "discord.js-selfbot-v13": "^3.1.4",
+    "eric.js": "^0.1.10",
+    "ffmpeg-static": "^5.2.0",
+    "i": "^0.3.7",
     "libsodium-wrappers": "^0.7.13",
+    "npm": "^10.8.1",
     "yt-search": "^2.11.0",
     "ytdl-core": "^4.11.5"
   },
@@ -10,7 +14,6 @@
   "description": "This Discord selfbot plays music from YouTube in a voice channel. It can search for songs, play them, and show similar songs to the current playing track.",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -30,7 +33,6 @@
     "Discord Music Bot",
     "Discord Bot",
     "Discord Selfbot"
-    
   ],
   "author": "GhoSty",
   "license": "MIT",
